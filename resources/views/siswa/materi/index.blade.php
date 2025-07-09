@@ -947,7 +947,7 @@
         </div>
 
         <!-- Simulation Controls -->
-        <div class="simulation-controls">
+        {{-- <div class="simulation-controls">
             <h6 class="mb-3" style="color: var(--text-dark-secondary); font-size: 1.25rem;">
                 <i class="bi bi-gear-fill me-2"></i>Kontrol Simulasi (Demo)
             </h6>
@@ -987,7 +987,7 @@
                 <i class="bi bi-info-circle-fill me-1"></i>
                 Kontrol ini hanya untuk demonstrasi. Skor minimal 80 diperlukan untuk membuka materi berikutnya.
             </p>
-        </div>
+        </div> --}}
 
         <!-- Section Divider -->
         <div class="section-divider">
