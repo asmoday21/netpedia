@@ -1,10 +1,11 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Guru;
 
 use Illuminate\Http\Request;
 use App\Models\Tugas;
 use Illuminate\Support\Facades\Validator;
+use App\Http\Controllers\Controller;
 
 class GuruTugasController extends Controller
 {
